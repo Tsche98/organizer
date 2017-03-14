@@ -1,4 +1,4 @@
-package at.tsche;
+package at.tsche.organizer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
